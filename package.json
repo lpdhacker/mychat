@@ -9,9 +9,9 @@
     "heroku"
   ],
   "devDependencies": {},
-+  "engines": {
-+    "node": "*"
-+  },
+ "engines": {
+    "node": "*"
+  },
   "author": "Pratik Srivastav",
   "license": "LPDHACKER",
   "dependencies":{
