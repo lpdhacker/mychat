@@ -8,6 +8,10 @@
     "example",
     "heroku"
   ],
+  "devDependencies": {},
++  "engines": {
++    "node": "*"
++  },
   "author": "Pratik Srivastav",
   "license": "LPDHACKER",
   "dependencies":{
